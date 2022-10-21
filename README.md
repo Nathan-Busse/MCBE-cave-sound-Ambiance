@@ -3,7 +3,7 @@
 
 # NOTE!!! 
 
-Make sure that ```domobspawning``` is enabled otherwise the resource pack will brake.
+Make sure that ```domobspawning``` is *enabled* otherwise the resource pack will brake.
 
 # How to solve if disabled
 
