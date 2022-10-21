@@ -11,12 +11,16 @@ Make sure that mobspawning is enabled otherwise the resource pack will brake.
 use this command ingame:
 
       
-    /gamerule domobspawn true
+    /gamerule domobspawning true
       
 
-  
+or just type the command like this in the ```send command``` tab like this:
 
-or just type the command in my ```Minecraft Bedrock Server Control Panel GUI``` Wrapper that I made for the bedrock dedicated server 
+
+    gamerule domobspawning true
+
+
+in my ```Minecraft Bedrock Server Control Panel GUI``` Wrapper that I made for the bedrock dedicated server 
 software made by Mojang which you can clone here:
 
 https://github.com/Nathan-Busse/Minecraft-Bedrock-Server-Control-Panel-GUI
