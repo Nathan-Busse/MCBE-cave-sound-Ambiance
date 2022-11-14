@@ -6,7 +6,7 @@ the calls of exotic animals from many bioms stretching far and wide.
 
 Listen to the wind blow in scorching desserts and the waves crashing on the sea shore.
 
-Enjoy.
+Enjoy this super cool and yet interesting resource pack
 
 # NOTE!!! 
 
