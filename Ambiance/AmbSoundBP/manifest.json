@@ -1,8 +1,8 @@
 {
     "format_version": 1,
     "header": {
-        "description": "Ambient Sounds V4 behavior pack by the Big Onion Institute",
-        "name": "Ambient Sounds V4 Behavior Pack",
+        "description": "Ambient Sounds behavior pack by Nathan Busse",
+        "name": "Ambient Sounds Behavior Pack",
         "uuid": "b74b9e23-794c-4dba-b642-f39b3636f4ef",
         "version": [ 0, 0, 1 ],
         "min_engine_version": [ 1, 8, 0 ]
