@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Ambient Sounds resource pack by Nathan Busse",
+        "name": "Ambient Sounds Resource Pack",
+        "uuid": "40eeb03b-887a-43f8-807b-0444fe532a9f",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 8, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Ambient Sounds resource pack by Nathan Busse",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "version": [0, 0, 2]
+        }
+    ]
+}
