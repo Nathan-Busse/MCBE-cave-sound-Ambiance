@@ -320,12 +320,12 @@
 		"sounds": [
 			{
 				"name": "sounds/ambient/boi/waves1",
-				"volume": 0.5,
+				"volume": 0.3,
 				"load_on_low_memory": true
 			},
 			{
 				"name": "sounds/ambient/boi/waves2",
-				"volume": 0.5,
+				"volume": 0.3,
 				"load_on_low_memory": true
 			}
 		]
@@ -336,7 +336,7 @@
 		"sounds": [
 			{
 				"name": "sounds/ambient/boi/waves1",
-				"volume": 0.5,
+				"volume": 0.3,
 				"load_on_low_memory": true
 			}
 		]
